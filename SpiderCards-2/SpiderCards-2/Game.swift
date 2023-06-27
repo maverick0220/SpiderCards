@@ -2,7 +2,7 @@
 //  Game.swift
 //  SpiderCards
 //
-//  Created by 周河晓 on 2020/10/23.
+//  Created by Maverick on 2020/10/23.
 //
 import SwiftUI
 import Foundation

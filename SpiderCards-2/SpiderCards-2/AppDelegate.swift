@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SpiderCards-2
 //
-//  Created by 周河晓 on 2020/11/11.
+//  Created by Maverick on 2020/11/11.
 //
 
 import Cocoa
